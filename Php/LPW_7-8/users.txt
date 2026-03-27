@@ -1,0 +1,3 @@
+student:password123
+admin:admin123
+stu:qwerty
